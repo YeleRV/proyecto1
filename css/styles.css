@@ -143,6 +143,10 @@ div.botones{
     height: 80px;
 }
 
+.mail{
+    border-color: inherit;
+}
+
 footer{
     height: 90px;
     max-width: 100%;
